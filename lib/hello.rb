@@ -7,7 +7,8 @@ i=0
   i+=1
   end
 else
-  puts 
+  puts "Hey! No block was given!"
+end
   array
 end
 
